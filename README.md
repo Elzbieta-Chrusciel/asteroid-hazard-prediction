@@ -88,11 +88,11 @@ Based on performance metrics, **XGBoost with Scaled Weight** demonstrates the hi
     ```
 
 ## Collaboration & Additional Resources
-The work presented in this repository was solely done by me and was key element of the project conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who worked on different aspects of the project:
+The work presented in this repository was completed solely by me and was a key component of a larger project conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who contributed to different aspects of the project:
 - Katarzyna Donaj focused on optimizing the Random Forest model.
-- Tomasz Mazurexplored a low-code approach to assess multiple models simultaneously.
-- Bartłomiej Brzostek deployed the final model and established a web application for real-time asteroid risk assessment based on the best-performing XGBoost model, buit by me.
+- Tomasz Mazur explored a low-code approach to assess multiple models simultaneously.
+- Bartłomiej Brzostek deployed the final model and established a web application for real-time asteroid risk assessment based on the best-performing XGBoost model, which I built.
 
-The full project can be explored in our Prezi presentation: [Prezi Link](https://prezi.com/p/edit/rygnld_akrmx/).
+The full project, including additional insights from the team, can be explored in our Prezi presentation: [Prezi Link](https://prezi.com/p/edit/rygnld_akrmx/).
 
 ---
