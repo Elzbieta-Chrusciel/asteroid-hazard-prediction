@@ -88,23 +88,11 @@ Based on performance metrics, **XGBoost with Scaled Weight** demonstrates the hi
     ```
 
 ## Collaboration & Additional Resources
-This project was conducted in collaboration with Bartłomiej Brzostek @bartbrzost, Katarzyna Donaj @donajkatarzyna and Tomasz Mazur @Tom-Mazur, who worked on different aspects of the analysis. However, all files and analyses presented in this repository were solely created by me.
+The work presented in this repository was solely done by me and was key element of the project conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who worked on different aspects of the project:
+- Katarzyna Donaj focused on optimizing the Random Forest model.
+- Tomasz Mazurexplored a low-code approach to assess multiple models simultaneously.
+- Bartłomiej Brzostek deployed the final model and established a web application for real-time asteroid risk assessment based on the best-performing XGBoost model, buit by me.
 
-The full project, including additional insights and discussions from the team, can be explored in our Prezi presentation: Prezi Link
-I worked in a team with **X**, **Y**, and **Z**:
-
-- **X** focused on the Random Forest model.
-- **Y** explored a low-code approach to assess multiple models simultaneously.
-- **Z** deployed the final model and established a web application for real-time asteroid risk assessment based on the best-performing XGBoost model, buit by me.
-
-While the collaborative efforts are presented in the final team presentation ([Prezi](https://prezi.com/p/edit/rygnld_akrmx/)), the work presented in this notebook was solely done by me.
+The full project can be explored in our Prezi presentation: [Prezi Link](https://prezi.com/p/edit/rygnld_akrmx/).
 
 ---
-
-### Additional Notes:
-
-- The **exploratory data analysis (EDA)** and **XGBoost model building** sections are highlighted in the team presentation, where I discuss key insights and findings.
-- **Feature engineering** and **class imbalance handling** played a critical role in improving model performance, especially considering the highly imbalanced nature of the dataset.
-
----
-
