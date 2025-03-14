@@ -87,15 +87,17 @@ Based on performance metrics, **XGBoost with Scaled Weight** demonstrates the hi
     jupyter notebook asteroid_hazard_prediction.ipynb
     ```
 
-## Collaboration
+## Collaboration & Additional Resources
+This project was conducted in collaboration with Bartłomiej Brzostek @bartbrzost, Katarzyna Donaj @donajkatarzyna and Tomasz Mazur @Tom-Mazur, who worked on different aspects of the analysis. However, all files and analyses presented in this repository were solely created by me.
 
+The full project, including additional insights and discussions from the team, can be explored in our Prezi presentation: Prezi Link
 I worked in a team with **X**, **Y**, and **Z**:
 
-- **X** worked on the Random Forest model, focusing on optimizing performance through various hyperparameters.
-- **Y** explored a low-code approach to assess multiple models simultaneously, including decision tree, random forest, XGBoost, and logistic regression.
-- **Z** was responsible for deploying the final model and establishing a web application for real-time asteroid risk assessment based on the XGBoost model, which was identified as the best-performing model.
+- **X** focused on the Random Forest model.
+- **Y** explored a low-code approach to assess multiple models simultaneously.
+- **Z** deployed the final model and established a web application for real-time asteroid risk assessment based on the best-performing XGBoost model, buit by me.
 
-While the collaborative efforts are presented in the final team presentation (available [here](https://prezi.com/p/edit/rygnld_akrmx/)), the work presented in this notebook was solely done by me.
+While the collaborative efforts are presented in the final team presentation ([Prezi](https://prezi.com/p/edit/rygnld_akrmx/)), the work presented in this notebook was solely done by me.
 
 ---
 
