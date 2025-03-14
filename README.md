@@ -53,12 +53,12 @@ The project utilizes real-world data from NASA's Near-Earth Object (NEO) databas
 ## Key Insights
 
 - **Feature Importance:** Absolute magnitude is a very strong predictor of hazard potential, followed by relative velocity and miss distance, which frequently appear in tree splits.
-- **Model Performance:** Oversampling and undersampling techniques significantly improved model recall, with NearMiss undersampling achieving the highest recall (0.94). Fine-tuning the `scale_pos_weight` parameter resulted in an even higher recall (0.97), with a slight precision improvement (0.59).
-- **Performance Trade-offs:** All models show high recall (0.99–1.00), but precision is relatively low (0.56–0.57). In this context, prioritizing recall is crucial to ensure hazardous asteroids are not overlooked, even if it means accepting a higher rate of false positives.
+- **Adressing Class Imbalance:** Oversampling and undersampling techniques significantly improved model recall, with NearMiss undersampling achieving the highest recall (0.94). Fine-tuning the `scale_pos_weight` parameter resulted in an even higher recall (0.97), along with a slight improvement in precision (0.61).
+- **Performance Trade-offs:** All models show very high recall (0.99), but precision is relatively low (0.56–0.58). In this case, prioritizing recall is crucial to ensure hazardous asteroids are not overlooked,  even at the cost of a higher rate of false positives.
 
 ## Final Model Selection
 
-Based on performance metrics, **XGBoost with Scaled Weight** demonstrates the highest Average Precision (AP) at 0.73, making it the most effective model for distinguishing hazardous asteroids. Despite the trade-off with precision, XGBoost's ability to achieve high recall (0.97) makes it the most suitable model for planetary defense applications.
+Based on performance metrics, **XGBoost with Scaled Weight** shows the highest Average Precision (AP) at 0.73, making it the most effective model for distinguishing hazardous asteroids.  While its precision is still relatively low at 0.58, its high recall (0.99) makes it the most suitable model for planetary defense applications, despite the trade-off in precision.
 
 ## Technologies Used
 
