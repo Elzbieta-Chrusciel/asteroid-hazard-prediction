@@ -106,4 +106,3 @@ While the collaborative efforts are presented in the final team presentation (av
 
 ---
 
-This README clearly explains the methodology, the tools and technologies you used, the collaborative work with your team, and the final results of your project. It also emphasizes your skills in data analysis, machine learning model building, and model evaluation.
