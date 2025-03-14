@@ -40,7 +40,7 @@ The project utilizes real-world data from NASA's Near-Earth Object (NEO) databas
 
 - XGBoost and RandomForest models were compared, and the best-performing one was selected for further optimization.
 - The `scale_pos_weight` parameter was tuned to address the class imbalance.
-- Hyperparameter tuning was performed using both manual selection and GridSearchCV to maximize model performance.
+- Hyperparameter tuning was performed using both manual selection and GridSearchCV to maximize XGBoost model performance.
 
 ### 4. Model Evaluation and Interpretation
 
