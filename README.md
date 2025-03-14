@@ -76,7 +76,7 @@ Based on performance metrics, **XGBoost with Scaled Weight** demonstrates the hi
 
 1. Clone the repository: 
     ```bash
-    git clone [your_repository_url]
+    git clone https://github.com/your-username/asteroid-hazard-prediction.git
     ```
 2. Install the required libraries:
     ```bash
