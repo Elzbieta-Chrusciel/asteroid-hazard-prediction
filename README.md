@@ -72,21 +72,6 @@ Based on performance metrics, **XGBoost with Scaled Weight** shows the highest A
 - Seaborn
 - imblearn
 
-## How to Run the Code
-
-1. Clone the repository: 
-    ```bash
-    git clone https://github.com/your-username/asteroid-hazard-prediction.git
-    ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Jupyter Notebook:
-    ```bash
-    jupyter notebook asteroid_hazard_prediction.ipynb
-    ```
-
 ## Collaboration & Additional Resources
 The work presented in this repository was completed solely by me and was a key component of a larger project conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who contributed to different aspects of the project:
 - Katarzyna Donaj focused on optimizing the Random Forest model.
