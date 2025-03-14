@@ -8,7 +8,7 @@ The project utilizes real-world data from NASA's Near-Earth Object (NEO) databas
 
 ## Data Source
 - **Dataset:** [NASA - Nearest Earth Objects Dataset (Kaggle)](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
-- **Origin:** The NASA's Center for NEO Studies (CNEOS) [Link](https://cneos.jpl.nasa.gov/ca/)
+- **Origin:** [The NASA's Center for NEO Studies (CNEOS)](https://cneos.jpl.nasa.gov/ca/)
   
 ## Key Features
 
