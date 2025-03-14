@@ -13,7 +13,7 @@ The project utilizes real-world data from NASA's Near-Earth Object (NEO) databas
 ## Key Features
 
 - **Hazard Prediction:** Predicts whether an asteroid is potentially hazardous to Earth.
-- **Data-Driven:** Uses real-world data from NASA's NEO database, available on Kaggle ([link](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)).
+- **Data-Driven:** Uses real-world data from NASA's NEO database, available on Kaggle.
 - **Machine Learning Powered:** Implements XGBoost and RandomForest algorithms for accurate classification.
 - **Class Imbalance Handling:** Applies various oversampling and undersampling techniques (SMOTE, ADASYN, NearMiss, SMOTE-ENN) to address class imbalance in the dataset.
 - **Explainable AI:** Provides insights into feature importance, helping to understand which factors contribute most to an asteroid's hazard potential.
