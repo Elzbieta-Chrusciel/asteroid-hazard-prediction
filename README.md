@@ -38,7 +38,7 @@ The project utilizes real-world data from NASA's Near-Earth Object (NEO) databas
 - Missing values and duplicates were handled to ensure the dataset's quality.
 - Redundant features were dropped based on correlation analysis.
 - New features, such as average diameter, were engineered to improve the predictive power.
-- Class imbalance was addressed through oversampling and undersampling techniques, including SMOTE, ADASYN, NearMiss, and SMOTEENN.
+- Class imbalance was addressed through oversampling and undersampling techniques, including SMOTE, ADASYN, NearMiss, and SMOTE-ENN.
 
 ### 3. Model Selection and Optimization
 
