@@ -95,7 +95,7 @@ I worked in a team with **X**, **Y**, and **Z**:
 - **Y** explored a low-code approach to assess multiple models simultaneously, including decision tree, random forest, XGBoost, and logistic regression.
 - **Z** was responsible for deploying the final model and establishing a web application for real-time asteroid risk assessment based on the XGBoost model, which was identified as the best-performing model.
 
-While the collaborative efforts are presented in the final team presentation (available [here](link)), the work presented in this notebook was solely done by me.
+While the collaborative efforts are presented in the final team presentation (available [here](https://prezi.com/p/edit/rygnld_akrmx/)), the work presented in this notebook was solely done by me.
 
 ---
 
