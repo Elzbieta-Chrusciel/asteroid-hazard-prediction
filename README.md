@@ -2,10 +2,14 @@
 
 ## Project Overview
 
-This project aims to develop a machine learning model capable of predicting whether an asteroid is potentially hazardous to Earth based on its physical characteristics and orbital parameters. The goal is to contribute to planetary defense efforts by providing a tool for rapid and accurate risk assessment.
+This project aims to **develop a machine learning model** capable of predicting whether an asteroid is potentially hazardous to Earth based on its physical characteristics and orbital parameters. The goal is to contribute to planetary defense efforts by providing a tool for rapid and accurate risk assessment.
 
 The project utilizes real-world data from NASA's Near-Earth Object (NEO) database and employs advanced machine learning algorithms, such as XGBoost and RandomForest, to classify asteroids based on their hazard potential.
 
+## Data Source
+- **Dataset:** [NASA - Nearest Earth Objects Dataset (Kaggle)](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
+- **Origin:** The NASA's Center for NEO Studies (CNEOS) [Link](https://cneos.jpl.nasa.gov/ca/)
+  
 ## Key Features
 
 - **Hazard Prediction:** Predicts whether an asteroid is potentially hazardous to Earth.
